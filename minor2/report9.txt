@@ -1,0 +1,5 @@
+Lab Report
+Patient: Sofia Martinez, Age: 62
+Date: 03/07/2025
+
+Sofia Martinez, a 62-year-old female with a long-standing history of type 2 diabetes, presented for a scheduled lab evaluation. The laboratory results included a complete blood count with a normal white cell differential and a slightly low hemoglobin level (11.5 g/dL). The CMP was largely within normal limits; however, her serum creatinine was at the higher end (1.3 mg/dL), and her electrolytes were stable. Her lipid profile indicated a total cholesterol of 230 mg/dL with high LDL and low HDL values. These findings were discussed in the context of her diabetes management, and adjustments to her diabetic and lipid-lowering medications were considered along with enhanced dietary recommendations.

@@ -1,0 +1,5 @@
+Lab Report
+Patient: Benjamin Ortiz, Age: 47
+Date: 03/20/2025
+
+Benjamin Ortiz, a 47-year-old male with a history of borderline hyperglycemia, underwent a series of laboratory tests. His fasting blood sugar was recorded at 112 mg/dL, and his HbA1c was at 6.0%, suggesting a pre-diabetic state. The complete metabolic panel was otherwise normal, and his kidney and liver functions were within expected ranges. His lipid profile, however, revealed a slightly elevated total cholesterol of 220 mg/dL with mildly increased LDL. The physician recommended lifestyle modifications, including a balanced diet and increased physical activity, and planned a follow-up appointment in one month to re-evaluate his metabolic status.

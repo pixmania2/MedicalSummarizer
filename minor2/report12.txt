@@ -1,0 +1,5 @@
+Lab Report
+Patient: Mason Carter, Age: 50
+Date: 03/10/2025
+
+Mason Carter, a 50-year-old male with a history of hyperlipidemia, underwent a detailed laboratory workup. His CBC was unremarkable, but his metabolic panel revealed slightly elevated blood glucose levels (fasting glucose 108 mg/dL). The liver function tests were within normal limits, although the lipid profile confirmed his previous diagnosis with total cholesterol at 240 mg/dL and LDL cholesterol elevated to 160 mg/dL. Given these results, the physician reinforced the importance of medication adherence and dietary modifications, and scheduled a follow-up lab test in two weeks to monitor his lipid levels and glycemic control.

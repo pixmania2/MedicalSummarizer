@@ -1,0 +1,5 @@
+Lab Report
+Patient: Amelia Price, Age: 59
+Date: 03/17/2025
+
+Amelia Price, a 59-year-old female with a history of hyperthyroidism (currently controlled), was evaluated with a series of laboratory tests. Her thyroid function tests (TSH and free T4) were within therapeutic range, while her CBC and CMP were unremarkable. However, her lipid profile showed mildly elevated triglycerides (190 mg/dL) and total cholesterol of 225 mg/dL. Given these findings, the physician emphasized the importance of continued dietary management and possibly initiating a low-dose statin if lipid levels did not improve on subsequent testing. A follow-up lab evaluation was advised in four weeks.

@@ -1,0 +1,20 @@
+Lab Report
+Patient: Michael Carter, Age: 58
+Date: 03/09/2025
+Michael Carter, a 58-year-old male with a known history of mild hypertension, underwent a series of
+laboratory tests during his routine health check-up. His evaluation included a complete blood count
+(CBC), comprehensive metabolic panel (CMP), and lipid profile. The CBC indicated a slightly elevated
+white blood cell (WBC) count of 11.2 x 10^3/µL, with the differential showing a modest neutrophilic
+predominance, suggesting a low-grade inflammatory process. Hemoglobin and platelet counts were
+within normal limits.
+The CMP revealed that serum electrolytes and kidney function were within acceptable ranges (serum
+creatinine of 1.1 mg/dL, BUN at 18 mg/dL). Liver enzymes were mildly elevated (ALT at 45 U/L, AST at
+40 U/L), values that approached the upper limits for his age group. Michael’s lipid profile was also
+evaluated; while total cholesterol was 200 mg/dL, LDL levels were slightly higher than desired,
+though HDL and triglycerides remained in an acceptable range. These findings, when considered
+together, suggested early metabolic dysregulation or a transient inflammatory response.
+The physician discussed the results with Michael, emphasizing the importance of monitoring these
+trends over time. A repeat set of tests was recommended in five days to assess any changes, and the
+patient was counseled on lifestyle modifications including a balanced diet, increased physical activity,
+and stress management. A follow-up consultation was scheduled to evaluate his progress and
+determine if further diagnostic testing might be warranted.

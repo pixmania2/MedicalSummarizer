@@ -1,0 +1,5 @@
+Lab Report
+Patient: Ethan Brooks, Age: 54
+Date: 03/05/2025
+
+Ethan Brooks, a 54-year-old male with a history of controlled hypertension, underwent routine laboratory evaluations. His complete blood count (CBC) revealed a white blood cell count of 10.8 x10^3/µL, with a slight neutrophilic predominance. The comprehensive metabolic panel (CMP) indicated normal electrolyte balance and kidney function, though his liver enzymes were marginally increased (ALT 48 U/L, AST 42 U/L). His lipid panel showed total cholesterol at 215 mg/dL with elevated LDL levels. The physician discussed the need for lifestyle modifications including dietary changes and exercise, and recommended repeating the tests in one week to monitor any evolving trends.

@@ -1,0 +1,6 @@
+General Consultation
+Patient: William Hayes, Age: 44
+Date: 03/16/2025
+
+William Hayes, a 44-year-old male with a history of mild asthma, visited the clinic reporting increased episodes of wheezing, shortness of breath, and chest tightness over the last week. His physical exam revealed mild bilateral wheezing on auscultation, and his oxygen saturation was steady at 97% on room air. The assessment considered a possible asthma exacerbation or a superimposed respiratory infection. The management plan included a short course of inhaled corticosteroids combined with a bronchodilator, along with recommendations for environmental trigger avoidance. A follow-up visit was scheduled in seven days to monitor his response to the treatment.
+
