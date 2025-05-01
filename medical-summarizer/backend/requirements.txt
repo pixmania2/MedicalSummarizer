@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+transformers>=4.39
+sentencepiece
+torch
+pymupdf==1.23.9
+reportlab
+celery[redis]
+python-dotenv
